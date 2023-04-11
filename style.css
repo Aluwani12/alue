@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(images/depositphotos_89610072-stock-photo-blueberry-muffins-with-powdered-sugar.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.logo{
+    text-shadow: 2px 2px;
+    font-size: 40px;
+    color: teal;
+    font-style: italic;
+    font-weight: bold;
+}
+nav{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 2% 6%;
+}
+.menubar ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    padding: 20px 25px;
+    font-size: 20px;
+    text color: black;
+    font-weight: bold;
+    cursor: pointer;  
+}
+.menubar a{
+    color: lightblue ;
+    font-weight: bolder;
+}
+.menubar  a:hover{
+
+    color: white;
+}
+.set ul li{
+    display: inline-block;
+    justify-content: space-between;
+    font-size: 20px;
+    margin: 10px;
+    color: lightblue;
+    font-weight: bolder;
+background-color: darkgray;
+cursor: pointer;
+background-color: transparent;
+background-repeat: no-repeat;
+    overflow: hidden;
+    border: none;
+}
+
+.header2{
+    min-height: 30vh;
+    background-color: teal;
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+}
+.logo2{
+    font-size: 60px;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 4px 4px;
+    color: darkgrey;
+    
+}
+.para{
+    text-align: start;
+    
+}
+.icon{
+    text-align: center;
+}
+h1{
+    padding: 10px;
+}
+.content{
+text-align: center;
+padding: 50px;
+color: lightblue;
+}
+h2{
+    font-size: 60px;
+}
+.par{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.header3{
+    min-height: 50vh;
+    background-color: teal;
+    background-position: center;
+    background-size: cover;
+    position: relative
+}
+.parent{
+   
+    
+}
+.text{
+    text-align: center;
+    float:left;
+}
+h6{
+    font-size: 60px;
+    color: whites;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+.paratext{
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    padding: 20px;
+}
+.paratext2{
+    font-weight: bold;
+    color: pink;
+    font-style: oblique;
+}
+h1{
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 2px;
+}
+.header4{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(images/download\ \(1\)\ 54.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+}
+.txt{
+    text-align: center;
+    align-items: center;
+}
+h5{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+.form{
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.p{
+    font-size: 30px;
+    margin: 10px;
+    color: white;
+    font-weight: bolder;
+}
+.btn{
+    font-weight: bolder;
+    border-radius: 20px;
+    width: 150px;
+margin: 15px;
+padding: 15px;
+
+}
+.btn:hover{
+    background-color: aqua;
+}
+input{
+
+    border: 1px solid;
+    width: 250px;
+    padding: 18px;
+    font-size: 15px;
+}
+.form3{
+    text-align: center;
+}
+h3{
+
+font-weight: bold;
+
+
+}
+#backround{
+    border: 1px solid;
+    width: 250px;
+    padding: 18px;
+    font-size: 20px;
+
+}
+#payment{
+    border: 1px solid;
+    width: 250px;
+    padding: 18px;
+    font-size: 20px;
+}
+h4{
+    font-size: 40px;
+font-weight: bold;
+padding: 15px;
+margin: 2px;
+color:lightblue;
+font-style: oblique;
+}
+.header7{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(images/istockphoto-539085530-612x612\ re.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+}
+.form7{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+
+}
+.p7{
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+}
+.textr{
+    text-align: center;
+    padding: 10px;
+    font-weight: bolder;
+}
+iframe{
+    width: 100%;
+}
+.pMap{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
